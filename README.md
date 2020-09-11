@@ -15,6 +15,8 @@ Let us perform sentiment classification by considering reviews which have rating
 
 Let us develop a LSTM based classfication model for sentiment classification on review data.
 
+Pre-requisites:
+
 Python 3.6
 
 Pandas https://pandas.pydata.org/
